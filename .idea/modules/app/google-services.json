@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215591109007",
+    "firebase_url": "https://oxo-stay-admin.firebaseio.com",
+    "project_id": "oxo-stay-admin",
+    "storage_bucket": "oxo-stay-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215591109007:android:383e935d0b90849e0b8bfa",
+        "android_client_info": {
+          "package_name": "com.app.oxostayadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215591109007-bbiuvhvf8htuv7m78jnv1v7f59osq0vi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.oxostayadmin",
+            "certificate_hash": "fdb63f002a8e66a84143a99fd86343430a5c1e04"
+          }
+        },
+        {
+          "client_id": "215591109007-qqkeqoni09cs18pil9fvh416qspneaq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1cMHz3niakV9nTjz7tLEMThOoJ1quAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215591109007-qqkeqoni09cs18pil9fvh416qspneaq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
